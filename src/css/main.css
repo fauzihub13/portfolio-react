@@ -1483,3 +1483,9 @@ Ensure the default browser behavior of the `hidden` attribute.
     line-height: 2.25rem;
   }
 }
+
+
+/* ADD ON FAUZI */
+.text-justify{
+  text-align: justify;
+}
