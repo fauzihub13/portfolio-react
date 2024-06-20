@@ -32,8 +32,5 @@ yarn start
 yarn test
 ```
 
-### License
-
-Edited by Fauzi Adi Saputra
----------------------------
+### Edited by Fauzi Adi Saputra
 Layout by @Realstoman
