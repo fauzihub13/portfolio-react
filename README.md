@@ -35,4 +35,5 @@ yarn test
 ### License
 
 Edited by Fauzi Adi Saputra
+---------------------------
 Layout by @Realstoman
