@@ -16,7 +16,7 @@ import {
 
 export const singleProjectData = {
   ProjectHeader: {
-    title: "Project Webs and Mobile Apps",
+    title: "Project Web and Mobile Apps",
     publishDate: "Jun 20, 2024",
     tags: "Full Stack",
   },
